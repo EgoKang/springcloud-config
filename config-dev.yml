@@ -1,4 +1,2 @@
-This a  config-dev.yml
-AAAAAAAAa
-BBBBBBBBb
-CCCCCCCCC
+config:
+  info: This a config-dev.yml
