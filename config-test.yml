@@ -1,1 +1,2 @@
-This a config-test.yml
+config: 
+  info: This a config-test.yml
